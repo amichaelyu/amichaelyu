@@ -1,3 +1,3 @@
 studying @ stanford
 
-contact @ yumich [at] stanford [dot] edu
+contact: yumich [at] stanford [dot] edu
