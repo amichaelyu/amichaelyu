@@ -1,5 +1,5 @@
 ### studying eng physics & meche @ stanford
 
-thinking about how robots learn
+i spent my time thinking about vertically integrated robotic systems and teaching robots how to learn
 
 contact: yumich [at] stanford [dot] edu
