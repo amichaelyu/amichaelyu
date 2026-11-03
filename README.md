@@ -4,6 +4,7 @@ macOS extensions i now maintain forks of / have built:
 - [Ice](https://github.com/amichaelyu/Ice): menu bar management (since original broke in macOS 27)
 - [SourceCodeSyntaxHighlight](https://github.com/amichaelyu/SourceCodeSyntaxHighlight): quick lock for code files (added LaTeX support)
 - [Compress Screen Recordings](https://github.com/amichaelyu/compress-screen-recordings): macOS native screen recordings are excessively large for no reason
+- [Zed LaTeX Viewer](https://github.com/amichaelyu/zed-skim-latex): custom sync extension between Zed and Skim for LaTEX editing
 
 all can be downloaded from my homebrew tap:
 ```
