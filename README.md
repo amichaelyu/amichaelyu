@@ -1,7 +1,5 @@
 ### studying eng physics & meche @ stanford
 
-contact: yumich [at] stanford [dot] edu
-
 macOS extensions i now maintain forks of / have built:
 - [Ice](https://github.com/amichaelyu/Ice): menu bar management (since original broke in macOS 27)
 - [SourceCodeSyntaxHighlight](https://github.com/amichaelyu/SourceCodeSyntaxHighlight): quick lock for code files (added LaTeX support)
@@ -15,3 +13,4 @@ brew install amichaelyu/tap/syntax-highlight-plus
 brew install --cask amichaelyu/tap/ice
 brew install amichaelyu/tap/compress-screen-recordings
 ```
+contact: yumich [at] stanford [dot] edu
