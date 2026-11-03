@@ -14,5 +14,6 @@ brew trust amichaelyu/tap   # Homebrew won't load third-party tap formulae until
 brew install amichaelyu/tap/syntax-highlight-plus
 brew install --cask amichaelyu/tap/ice
 brew install amichaelyu/tap/compress-screen-recordings
+brew install --cask amichaelyu/tap/skim
 ```
 contact: yumich [at] stanford [dot] edu
