@@ -5,6 +5,7 @@ macOS extensions i now maintain forks of / have built:
 - [SourceCodeSyntaxHighlight](https://github.com/amichaelyu/SourceCodeSyntaxHighlight): quick lock for code files (added LaTeX support)
 - [Compress Screen Recordings](https://github.com/amichaelyu/compress-screen-recordings): macOS native screen recordings are excessively large for no reason
 - [Zed LaTeX Viewer](https://github.com/amichaelyu/zed-skim-latex): custom sync extension between Zed and Skim for LaTEX editing
+- [Skim](https://github.com/amichaelyu/skim): macOS PDF viewer with no flashing with hot reloading
 
 all can be downloaded from my homebrew tap:
 ```
